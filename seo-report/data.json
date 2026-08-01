@@ -1,0 +1,1485 @@
+[
+  {
+    "url": "https://www.makeartnotwar.org/about-us",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (27 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "About Us | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/about-us",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_0ea872bbefcb4a4da8a30e64429a64c8~mv2.jpg/v1/fill/w_1944,h_1296,al_c/a01b75_0ea872bbefcb4a4da8a30e64429a64c8~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/artist",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (25 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Artist | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/artist",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/contact-us",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (29 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Contact Us | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/contact-us",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_e56b332deedb4343b79579d5ed2036fa~mv2.jpg/v1/fill/w_1000,h_667,al_c/a01b75_e56b332deedb4343b79579d5ed2036fa~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/donate",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (25 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Donate | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/donate",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_c436053f8fe54ab08fab08d8406a5e0d~mv2.jpg/v1/fill/w_1600,h_1066,al_c/a01b75_c436053f8fe54ab08fab08d8406a5e0d~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/events",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (25 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Events | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/events",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_6fd43b7e91834ffc9cb50808052a6e38~mv2_d_2016_1512_s_2.jpg/v1/fill/w_2500,h_1875,al_c/a01b75_6fd43b7e91834ffc9cb50808052a6e38~mv2_d_2016_1512_s_2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/festival",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (27 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Festival | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/festival",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_a3d85658db6942af8aac6efe5bc57531~mv2.jpg/v1/fill/w_1620,h_1080,al_c/a01b75_a3d85658db6942af8aac6efe5bc57531~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/merch",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (24 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Merch | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/merch",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_fe64b8823c7f4d4c9ff2737dadeb977a~mv2.png/v1/fill/w_438,h_400,al_c/a01b75_fe64b8823c7f4d4c9ff2737dadeb977a~mv2.png"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/news",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (23 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "News | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/news",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_0b680edb184b43789d7dca072656831b~mv2.jpg/v1/fill/w_1405,h_773,al_c/a01b75_0b680edb184b43789d7dca072656831b~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/projects",
+    "score": 62,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (27 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Projects | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/projects",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_dbd1179195f0462c8e205e66d1d7bf7b~mv2.jpg/v1/fill/w_2500,h_1666,al_c/a01b75_dbd1179195f0462c8e205e66d1d7bf7b~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/activism",
+    "score": 67,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "7 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Community Service | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/activism",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/movies",
+    "score": 67,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (25 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (6). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "9 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Movies | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/movies",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_64a8a5c39d8442f8862832dd62bfbf41~mv2_d_2048_1273_s_2.jpg/v1/fill/w_2048,h_1273,al_c/a01b75_64a8a5c39d8442f8862832dd62bfbf41~mv2_d_2048_1273_s_2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/andres-sergio-echeveste",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Andrés Echeveste | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/andres-sergio-echeveste",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/darin-wixon",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Darin Wixon | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/darin-wixon",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_2acff52fd24542a19ea1900d3dc2e842~mv2.jpg/v1/fill/w_960,h_640,al_c/a01b75_2acff52fd24542a19ea1900d3dc2e842~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/hellorayita",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Hernan Castelli | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/hellorayita",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_45b543b0be4249749f4197dd399f3411~mv2.jpg/v1/fill/w_1000,h_600,al_c/a01b75_45b543b0be4249749f4197dd399f3411~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/iliana-lvarez",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Ilian Alvarez | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/iliana-lvarez",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_995a79a125e9447fb3d225ad5d737ff6~mv2.jpg/v1/fill/w_802,h_960,al_c/a01b75_995a79a125e9447fb3d225ad5d737ff6~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/lalo-lion",
+    "score": 72,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (28 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too short (53 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Lalo Lion | Make Art Not War",
+      "description": "Ska Reggae Dancehall en Español from Los Angeles, CA.",
+      "canonical": "https://www.makeartnotwar.org/lalo-lion",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_6eb28b6a6a1746edb64c4be54f8102d9~mv2.jpg/v1/fill/w_593,h_303,al_c/a01b75_6eb28b6a6a1746edb64c4be54f8102d9~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/manwtfff",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (27). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "44 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Make Art Not War Teaser Future Film Fest | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/manwtfff",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_aa83630644684529890c9ca6f221b769~mv2.jpg/v1/fill/w_1620,h_1080,al_c/a01b75_aa83630644684529890c9ca6f221b769~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/noise",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (23). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "16 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "NOISE / Record Label | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/noise",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_b33a93f7a97d42fd8498c2aca3d2d204~mv2.jpg/v1/fill/w_2500,h_833,al_c/a01b75_b33a93f7a97d42fd8498c2aca3d2d204~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/tuti",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gustavo \"Tuti\" Nuñez | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/tuti",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_1dc25e232201416585eeb4d7ac890c47~mv2.jpg/v1/fill/w_2500,h_1666,al_c/a01b75_1dc25e232201416585eeb4d7ac890c47~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/zeitweitz",
+    "score": 72,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Erica Weitz | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/zeitweitz",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_21609a1b4e97408db5b04d220f7c8378~mv2.jpg/v1/fill/w_1080,h_720,al_c/a01b75_21609a1b4e97408db5b04d220f7c8378~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/tshuva",
+    "score": 75,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (7). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Crowdfunding: Tshuva (The Answer) | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/tshuva",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_ed36ba18b3634a41829a08414ff72f10~mv2.jpeg/v1/fill/w_680,h_952,al_c/a01b75_ed36ba18b3634a41829a08414ff72f10~mv2.jpeg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/artistasporlapatagonia",
+    "score": 77,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "22 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Artistas por la Patagonia | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/artistasporlapatagonia",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a01b75_4c41b487edd24b75b996f5fcfc2b2fce%7Emv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/cultural-interest",
+    "score": 77,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Cultural Interest | Make Art Not War",
+      "description": null,
+      "canonical": "https://www.makeartnotwar.org/cultural-interest",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_f6fde0dfd1934feda4172db430f5723c~mv2.jpg/v1/fill/w_2500,h_1106,al_c/a01b75_f6fde0dfd1934feda4172db430f5723c~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/mapa",
+    "score": 78,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (237 chars). May be truncated."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Mapa x Patagonia | Make Art Not War",
+      "description": "Arte solidario por las comunidades patagónicas afectadas por los incendios. Cinco artistas del sur argentino. Obras originales y prints de edición limitada disponibles en sala y online. Stand 13, La Rural, Buenos Aires, 25–28 junio 2026.",
+      "canonical": "https://www.makeartnotwar.org/mapa",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_171f323bcca54d09abc0e933999b5728~mv2.png/v1/fill/w_1498,h_1050,al_c/a01b75_171f323bcca54d09abc0e933999b5728~mv2.png"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/media",
+    "score": 78,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (24 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (249 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (13). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Media | Make Art Not War",
+      "description": "Make Art Not War Media is a multi-platform project in Los Angeles, CA managed by 501c3 Non-Profit for the Arts, MakeArtNotWar.org. Our aim is to host diverse voices, formats, and pursuits by showcasing local and international artists. #MakeArtNotWar",
+      "canonical": "https://www.makeartnotwar.org/media",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_1fbac94b177a423fb307d92e4532a6a5~mv2.jpg/v1/fill/w_1920,h_1080,al_c/a01b75_1fbac94b177a423fb307d92e4532a6a5~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/chapete",
+    "score": 80,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "9 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Sergio Bonacci Lapalma aka Chapete | Make Art Not War",
+      "description": "Chapete, President of Make Art Not War, leading the charge in filmmaking, cultural advocacy, and humanitarian initiatives.",
+      "canonical": "https://www.makeartnotwar.org/chapete",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_47fe53bb85604751ad4510b8baa1c7b4~mv2.jpg/v1/fill/w_1555,h_1037,al_c/a01b75_47fe53bb85604751ad4510b8baa1c7b4~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/tony-tc-coleman-argentina-tour-2026",
+    "score": 80,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Tony TC Coleman Argentina Tour 2026 | Make Art Not War",
+      "description": "El legendario baterista de B.B. King y Pappo vuelve a Argentina con Los Aerophonicos. Fechas disponibles agosto 2026. Booking: big.victor.sanders@gmail.com",
+      "canonical": "https://www.makeartnotwar.org/tony-tc-coleman-argentina-tour-2026",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_62fa72e64c7041caa036d252c7916b7a~mv2.jpg/v1/fill/w_2500,h_1406,al_c/a01b75_62fa72e64c7041caa036d252c7916b7a~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/gabriel-lococo",
+    "score": 82,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too short (38 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gabriel Lococo | Make Art Not War",
+      "description": "Award-Winning Musician from Argentina.",
+      "canonical": "https://www.makeartnotwar.org/gabriel-lococo",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_a50851abcf8a4b939184f3ebc9f9f97d~mv2.jpg/v1/fill/w_450,h_450,al_c/a01b75_a50851abcf8a4b939184f3ebc9f9f97d~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/mark-slater",
+    "score": 82,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too short (37 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Mark Slater | Make Art Not War",
+      "description": "Award-Winning English Music Composer.",
+      "canonical": "https://www.makeartnotwar.org/mark-slater",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_0b680edb184b43789d7dca072656831b~mv2.jpg/v1/fill/w_1405,h_773,al_c/a01b75_0b680edb184b43789d7dca072656831b~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/wendimorrison",
+    "score": 82,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too short (14 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Wendi Morrison | Make Art Not War",
+      "description": "Wendi Morrison",
+      "canonical": "https://www.makeartnotwar.org/wendimorrison",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_109f6e68f33c4197b08228d41a1f5bcb~mv2.jpg/v1/fill/w_2500,h_3333,al_c/a01b75_109f6e68f33c4197b08228d41a1f5bcb~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/bjdocumentary",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (228 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (3). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "12 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "BJ: The Life and Times of Bosco and Jojo | Make Art Not War",
+      "description": "DOCUMENTARY. It's the story of a hilarious journey of a pair of talented and multiple award-winning Art Director, Bosco & Jojo, from Argentina, venturing out to make their first feature film. Directed by Serigio Bonacci Lapalma.",
+      "canonical": "https://www.makeartnotwar.org/bjdocumentary",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_e418b08d71ee4c77a8d8093d705c95d2~mv2.png/v1/fill/w_1920,h_1080,al_c/a01b75_e418b08d71ee4c77a8d8093d705c95d2~mv2.png"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/co-op-distribucion",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (259 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (4). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "9 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Co-Op Distribución | Make Art Not War",
+      "description": "Make Art Not War Co-op Distribución: Created in Buenos Aires and based in Los Angeles. We distribute indie films to 130+ VOD platforms like Netflix, Prime Video, Tubi, Peacock TV, and Apple  TV. Supporting indie filmmakers globally since 2025. \n#MakeArtNotWar",
+      "canonical": "https://www.makeartnotwar.org/co-op-distribucion",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_ec4b392dbda14a15b12a0f37e1dd048f~mv2.png/v1/fill/w_1917,h_1078,al_c/a01b75_ec4b392dbda14a15b12a0f37e1dd048f~mv2.png"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/jameshazley",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (477 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (3). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "7 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "James Hazley | Make Art Not War",
+      "description": "James Hazley is a multi-talented artist with a captivating story. From his early beginnings in a show business family to overcoming personal struggles, James's journey has shaped his unique musical voice. With soulful melodies and powerful lyrics, he shares his experiences of resilience and triumph, touching the hearts of listeners. Join James on his extraordinary musical odyssey as he pours his heart and soul into creating soul-stirring music that leaves a lasting impact.",
+      "canonical": "https://www.makeartnotwar.org/jameshazley",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_2410dd758c0b407d9a84efe99e383099~mv2.jpg/v1/fill/w_938,h_528,al_c/a01b75_2410dd758c0b407d9a84efe99e383099~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/masiel",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (398 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Masiel by Bosco & Jojo | Make Art Not War",
+      "description": "BLACK HUMOR FILM. After the resounding success of 'BJ: The Life and Times of Bosco and Jojo,' the eagerly awaited 'MASIEL' is now in production. Dive into the extraordinary story of Adele as she navigates a world where the World Cup final collides with the surreal fantasies of Maciel Island. Join us on a journey through chaos, allure, and a cast of unforgettable characters in this upcoming film.",
+      "canonical": "https://www.makeartnotwar.org/masiel",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_d54467f4a32d42498807f6176d0da91b~mv2.jpg/v1/fill/w_1920,h_1080,al_c/a01b75_d54467f4a32d42498807f6176d0da91b~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/suyay",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (263 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Suyay Brillaud | Make Art Not War",
+      "description": "ES:\nMuralista, performer y directora de arte argentina. Combina muralismo, cine y diseño escenográfico en proyectos de impacto cultural.\nEN:\nArgentine muralist, performer, and art director blending muralism, film, and scenic design in projects of cultural impact.",
+      "canonical": "https://www.makeartnotwar.org/suyay",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_43230cc6c33941d4b67c9c393a962d49~mv2.jpeg/v1/fill/w_1280,h_853,al_c/a01b75_43230cc6c33941d4b67c9c393a962d49~mv2.jpeg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/tierracitrus",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (327 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (7). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "CITRUS LAND - Land and immigration | Make Art Not War",
+      "description": "Support 'Tierra Citrus,' an indie film set in Argentina, and help bring its post-production to life. Donate through the 501(c)(3) non-profit Make Art Not War, and enjoy tax-deductible benefits in the USA and Canada. Your contribution helps share this powerful story of family, immigration, and cultural identity. Join us today!",
+      "canonical": "https://www.makeartnotwar.org/tierracitrus",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_eb08828a7aa54647bb716c536e2b43aa~mv2.jpg/v1/fill/w_1359,h_765,al_c/a01b75_eb08828a7aa54647bb716c536e2b43aa~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/timumachtikannawat",
+    "score": 83,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (220 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (3). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "¡Timumachtikan Nawat! | Make Art Not War",
+      "description": "THIS PROJECT HAS BEEN CREATED IN ORDER TO REVITALIZE THE NAHUAT CULTURE AND LANGUAGE FROM EL SALVADOR. / Este proyecto ha sido creado con el fin de revitalizar la cultura y el idioma náhuat de El Salvador. #MakeArtNotWar",
+      "canonical": "https://www.makeartnotwar.org/timumachtikannawat",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_9fc4015d096c415aa09c9eb1b27ccb2c~mv2.jpg/v1/fill/w_2500,h_3333,al_c/a01b75_9fc4015d096c415aa09c9eb1b27ccb2c~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/crudovillagra",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gonzalo \"Crudo\" Villagra | Make Art Not War",
+      "description": "MAKE ART NOT WAR is proud to sponsor Musician and Engineers Gonzalo, \"Crudo\" Villagra. President of Estudios Audión and leader of Audión (band).",
+      "canonical": "https://www.makeartnotwar.org/crudovillagra",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_40b7c79dd16145e8bf9320facc7941c5~mv2.jpg/v1/fill/w_512,h_288,al_c/a01b75_40b7c79dd16145e8bf9320facc7941c5~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/juanioliverah",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Multiple <h1> tags found (2). Best practice is to have only one."
+      },
+      {
+        "type": "warning",
+        "message": "9 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Juani Olivera | Make Art Not War",
+      "description": "Juana Olivera Hardoy (1991, Buenos Aires, Argentina). Artista plastica, locutora y actriz. Establecida en Barcelona, España.",
+      "canonical": "https://www.makeartnotwar.org/juanioliverah",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_db5a4f5b590143d7b8791bd5369e3b1d~mv2.jpg/v1/fill/w_2500,h_3125,al_c/a01b75_db5a4f5b590143d7b8791bd5369e3b1d~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (226 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "#MakeArtNotWar | Make Art Not War Foundation",
+      "description": "The specific purpose of this corporation is to support original content from artists and creators around the world in Art, Music, Cinema and Television. Focusing on cultural interest projects and freedom of speech initiatives.",
+      "canonical": "https://www.makeartnotwar.org/",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_6ecb91655c54485bbe734d816f811596~mv2.jpg/v1/fill/w_1200,h_628,al_c/a01b75_6ecb91655c54485bbe734d816f811596~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/elespiritudelamascara",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (352 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "El Espíritu de la Mascara | Make Art Not War",
+      "description": "Discover 'El Espiritu de la Mascara', a one-of-a-kind animated short film that merges the cultures of Guatemala and Uruguay. Join us on this exciting journey celebrating Guatemala's rich indigenous heritage through the magic of animation. Support our project on Make Art Not War and be a part of creating this work that transcends borders and cultures.",
+      "canonical": "https://www.makeartnotwar.org/elespiritudelamascara",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_949c2c5f35204d9c931fb7222485dd53~mv2.jpg/v1/fill/w_1610,h_837,al_c/a01b75_949c2c5f35204d9c931fb7222485dd53~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/hiv",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (250 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "HIV Positive | Make Art Not War",
+      "description": "Support POSITIVA: an inspiring project where 9 Latin American artists living with HIV envision a cure through art in Quito. Experience their unique creations and contribute to a global discussion on ending HIV stigma. #MakeArtNotWar #POSITIVA2024 🎨✨",
+      "canonical": "https://www.makeartnotwar.org/hiv",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_3542ea438b204d228e4e9ebc8c7299a6~mv2.png/v1/fill/w_1921,h_1080,al_c/a01b75_3542ea438b204d228e4e9ebc8c7299a6~mv2.png"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/popa",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (236 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "7 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "POPA Art Gallery | Make Art Not War",
+      "description": "Space for art and meetings created by Marcelo Bosco and Jo Johannes in the early 1990s under the name \"Galpón Plateado de La Boca\" (The Silver Warehouse of La Boca), known today as Galería POPA (Promoción y orientación para el artista).",
+      "canonical": "https://www.makeartnotwar.org/popa",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_e5f5e7f10cfb401099c6e06e07017d4b~mv2.jpg/v1/fill/w_1080,h_1080,al_c/a01b75_e5f5e7f10cfb401099c6e06e07017d4b~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/robertopiazza",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (423 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Roberto Piazza | Make Art Not War",
+      "description": "Dive into the upcoming series film, 'Cut and Confession: The Roberto Piazza Chronicles.' Experience the extraordinary life of renowned fashion designer Roberto Piazza—a journey through triumphs, advocacy against child abuse, and the transformative power of art. Join us for a riveting exploration of courage and justice, unfolding the highs and lows of Piazza's visionary life. An unforgettable cinematic experience awaits!",
+      "canonical": "https://www.makeartnotwar.org/robertopiazza",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_2f84c5671a12454a9eef9c28447a7065~mv2.jpg/v1/fill/w_1256,h_620,al_c/a01b75_2f84c5671a12454a9eef9c28447a7065~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/somethinghaschangeddoc",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (246 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "11 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Something Has Changed / Algo ha cambiado | Make Art Not War",
+      "description": "A Quixotic journey to discover the roots of blues in Argentina and the U.S., honoring the legacy of Melvyn 'Deacon' Jones and his blues brother, Norberto 'Pappo' Napolitano. A heartfelt tribute to the enduring power of blues. Long live the blues.",
+      "canonical": "https://www.makeartnotwar.org/somethinghaschangeddoc",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_5efbd99e70794608b7351cd135818509~mv2.jpg/v1/fill/w_640,h_411,al_c/a01b75_5efbd99e70794608b7351cd135818509~mv2.jpg"
+    }
+  },
+  {
+    "url": "https://www.makeartnotwar.org/unity",
+    "score": 90,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "UNITY - An Anti-War Art Exhibition | Make Art Not War",
+      "description": "\"UNITY aims to recognize the value of protecting human life by using art as a catalyst for unfiltered conversation.\" AMIN + LEV.\nRSVP Today!\n#MakeArtNotWar",
+      "canonical": "https://www.makeartnotwar.org/unity",
+      "ogImage": "https://static.wixstatic.com/media/a01b75_2dee4cc0b6f9410886449f3f4bba0c83~mv2.jpg/v1/fill/w_1200,h_630,al_c/a01b75_2dee4cc0b6f9410886449f3f4bba0c83~mv2.jpg"
+    }
+  }
+]

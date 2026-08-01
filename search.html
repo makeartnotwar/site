@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Site Search</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8f9fa; color: #1a1a2e; padding: 2rem; }
+.search-container { max-width: 640px; margin: 0 auto; }
+h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+input[type="search"] { width: 100%; padding: 0.75rem 1rem; font-size: 1rem; border: 2px solid #e2e8f0; border-radius: 8px; outline: none; transition: border-color 0.2s; }
+input[type="search"]:focus { border-color: #6366f1; }
+.results { margin-top: 1.5rem; }
+.result-item { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem; margin-bottom: 0.75rem; text-decoration: none; display: block; color: inherit; transition: box-shadow 0.2s; }
+.result-item:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.result-title { font-weight: 600; color: #4f46e5; margin-bottom: 0.25rem; }
+.result-path { font-size: 0.8rem; color: #64748b; margin-bottom: 0.25rem; }
+.result-excerpt { font-size: 0.9rem; color: #475569; }
+.no-results { color: #94a3b8; text-align: center; padding: 2rem 0; }
+.count { font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.75rem; }
+</style>
+</head>
+<body>
+<div class="search-container">
+<h1>Search</h1>
+<input type="search" id="q" placeholder="Search pages..." autofocus>
+<div class="results" id="results"></div>
+</div>
+<script>
+(function() {
+var pages = [{"path":"/","title":"#MakeArtNotWar | Make Art Not War Foundation","description":"The specific purpose of this corporation is to support original content from artists and creators around the world in Art, Music, Cinema and Television. Focusing on cultural interest projects and freedom of speech initiatives.","excerpt":"Co-Op Distribución"},{"path":"/about-us","title":"About Us | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/activism","title":"Community Service | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/andres-sergio-echeveste","title":"Andrés Echeveste | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/artist","title":"Artist | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/artistasporlapatagonia","title":"Artistas por la Patagonia | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/bjdocumentary","title":"BJ: The Life and Times of Bosco and Jojo | Make Art Not War","description":"DOCUMENTARY. It","excerpt":"Co-Op Distribución"},{"path":"/chapete","title":"Sergio Bonacci Lapalma aka Chapete | Make Art Not War","description":"Chapete, President of Make Art Not War, leading the charge in filmmaking, cultural advocacy, and humanitarian initiatives.","excerpt":"Co-Op Distribución"},{"path":"/co-op-distribucion","title":"Co-Op Distribución | Make Art Not War","description":"Make Art Not War Co-op Distribución: Created in Buenos Aires and based in Los Angeles. We distribute indie films to 130+ VOD platforms like Netflix, Prime Video, Tubi, Peacock TV, and Apple  TV. Supporting indie filmmakers globally since 2025. \n#MakeArtNotWar","excerpt":"Co-Op Distribución"},{"path":"/contact-us","title":"Contact Us | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/crudovillagra","title":"Gonzalo \"Crudo\" Villagra | Make Art Not War","description":"MAKE ART NOT WAR&nbsp;is proud to sponsor Musician and Engineers Gonzalo, &quot;Crudo&quot; Villagra. President of Estudios Audión and leader of Audión (band).","excerpt":"Co-Op Distribución"},{"path":"/cultural-interest","title":"Cultural Interest | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/darin-wixon","title":"Darin Wixon | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/donate","title":"Donate | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/elespiritudelamascara","title":"El Espíritu de la Mascara | Make Art Not War","description":"Discover ","excerpt":"Co-Op Distribución"},{"path":"/events","title":"Events | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/festival","title":"Festival | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/gabriel-lococo","title":"Gabriel Lococo | Make Art Not War","description":"Award-Winning Musician from Argentina.","excerpt":"Co-Op Distribución"},{"path":"/hellorayita","title":"Hernan Castelli | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/hiv","title":"HIV Positive | Make Art Not War","description":"Support POSITIVA: an inspiring project where 9 Latin American artists living with HIV envision a cure through art in Quito. Experience their unique creations and contribute to a global discussion on ending HIV stigma. #MakeArtNotWar #POSITIVA2024 🎨✨","excerpt":"Co-Op Distribución"},{"path":"/iliana-lvarez","title":"Ilian Alvarez | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/jameshazley","title":"James Hazley | Make Art Not War","description":"James Hazley is a multi-talented artist with a captivating story. From his early beginnings in a show business family to overcoming personal struggles, James","excerpt":"Co-Op Distribución"},{"path":"/juanioliverah","title":"Juani Olivera | Make Art Not War","description":"Juana Olivera Hardoy (1991, Buenos Aires, Argentina). Artista plastica, locutora y actriz. Establecida en Barcelona, España.","excerpt":"Co-Op Distribución"},{"path":"/lalo-lion","title":"Lalo Lion | Make Art Not War","description":"Ska Reggae Dancehall en Español from Los Angeles, CA.","excerpt":"Co-Op Distribución"},{"path":"/manwtfff","title":"Make Art Not War Teaser Future Film Fest | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/mapa","title":"Mapa x Patagonia | Make Art Not War","description":"Arte solidario por las comunidades patagónicas afectadas por los incendios. Cinco artistas del sur argentino. Obras originales y prints de edición limitada disponibles en sala y online. Stand 13, La Rural, Buenos Aires, 25–28 junio 2026.","excerpt":"Co-Op Distribución"},{"path":"/mark-slater","title":"Mark Slater | Make Art Not War","description":"Award-Winning English Music Composer.","excerpt":"Co-Op Distribución"},{"path":"/masiel","title":"Masiel by Bosco &amp; Jojo | Make Art Not War","description":"BLACK HUMOR FILM. After the resounding success of ","excerpt":"Co-Op Distribución"},{"path":"/media","title":"Media | Make Art Not War","description":"Make Art Not War Media is a multi-platform project in Los Angeles, CA managed by 501c3 Non-Profit for the Arts, MakeArtNotWar.org. Our aim is to host diverse voices, formats, and pursuits by showcasing local and international artists. #MakeArtNotWar","excerpt":"Co-Op Distribución"},{"path":"/merch","title":"Merch | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/movies","title":"Movies | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/news","title":"News | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/noise","title":"NOISE / Record Label | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/popa","title":"POPA Art Gallery | Make Art Not War","description":"Space for art and meetings created by Marcelo Bosco and Jo Johannes in the early 1990s under the name &quot;Galpón Plateado de La Boca&quot; (The Silver Warehouse of La Boca), known today as Galería POPA (Promoción y orientación para el artista).","excerpt":"Co-Op Distribución"},{"path":"/projects","title":"Projects | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/robertopiazza","title":"Roberto Piazza | Make Art Not War","description":"Dive into the upcoming series film, ","excerpt":"Co-Op Distribución"},{"path":"/somethinghaschangeddoc","title":"Something Has Changed / Algo ha cambiado | Make Art Not War","description":"A Quixotic journey to discover the roots of blues in Argentina and the U.S., honoring the legacy of Melvyn ","excerpt":"Co-Op Distribución"},{"path":"/suyay","title":"Suyay Brillaud | Make Art Not War","description":"ES:\nMuralista, performer y directora de arte argentina. Combina muralismo, cine y diseño escenográfico en proyectos de impacto cultural.\nEN:\nArgentine muralist, performer, and art director blending muralism, film, and scenic design in projects of cultural impact.","excerpt":"Co-Op Distribución"},{"path":"/tierracitrus","title":"CITRUS LAND - Land and immigration | Make Art Not War","description":"Support ","excerpt":"Co-Op Distribución"},{"path":"/timumachtikannawat","title":"¡Timumachtikan Nawat! | Make Art Not War","description":"THIS PROJECT HAS BEEN CREATED IN ORDER TO REVITALIZE THE NAHUAT CULTURE AND LANGUAGE FROM EL SALVADOR. / Este proyecto ha sido creado con el fin de revitalizar la cultura y el idioma náhuat de El Salvador. #MakeArtNotWar","excerpt":"Co-Op Distribución"},{"path":"/tony-tc-coleman-argentina-tour-2026","title":"Tony TC Coleman Argentina Tour 2026 | Make Art Not War","description":"El legendario baterista de B.B. King y Pappo vuelve a Argentina con Los Aerophonicos. Fechas disponibles agosto 2026. Booking: big.victor.sanders@gmail.com","excerpt":"Co-Op Distribución"},{"path":"/tshuva","title":"Crowdfunding: Tshuva (The Answer) | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/tuti","title":"Gustavo \"Tuti\" Nuñez | Make Art Not War","description":"","excerpt":"Co-Op Distribución"},{"path":"/unity","title":"UNITY - An Anti-War Art Exhibition | Make Art Not War","description":"&quot;UNITY aims to recognize the value of protecting human life by using art as a catalyst for unfiltered conversation.&quot; AMIN + LEV.\nRSVP Today!\n#MakeArtNotWar","excerpt":"Co-Op Distribución"},{"path":"/wendimorrison","title":"Wendi Morrison | Make Art Not War","description":"Wendi Morrison","excerpt":"Co-Op Distribución"},{"path":"/zeitweitz","title":"Erica Weitz | Make Art Not War","description":"","excerpt":"Co-Op Distribución"}];
+var input = document.getElementById('q');
+var resultsEl = document.getElementById('results');
+
+function search(query) {
+    if (!query || query.length < 2) { resultsEl.innerHTML = ''; return; }
+    var q = query.toLowerCase();
+    var matches = pages.filter(function(p) {
+        return (p.title && p.title.toLowerCase().indexOf(q) !== -1) ||
+               (p.description && p.description.toLowerCase().indexOf(q) !== -1) ||
+               (p.excerpt && p.excerpt.toLowerCase().indexOf(q) !== -1);
+    });
+    if (matches.length === 0) {
+        resultsEl.innerHTML = '<div class="no-results">No results found.</div>';
+        return;
+    }
+    var html = '<div class="count">' + matches.length + ' result(s)</div>';
+    matches.forEach(function(p) {
+        var href = p.path === '/' ? 'index.html' : p.path.replace(/^\//, '') + '/index.html';
+        html += '<a class="result-item" href="' + href + '">' +
+            '<div class="result-title">' + esc(p.title || 'Untitled') + '</div>' +
+            '<div class="result-path">' + esc(p.path) + '</div>' +
+            '<div class="result-excerpt">' + esc(p.excerpt || p.description || '') + '</div>' +
+            '</a>';
+    });
+    resultsEl.innerHTML = html;
+}
+
+function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+input.addEventListener('input', function() { search(this.value); });
+})();
+</script>
+</body>
+</html>
